@@ -33,4 +33,4 @@ Follow these steps to run the project on your local machine.
 ### Step A: Clone the Repository
 
 ```bash
-git clone <https://github.com/Akashkumarfortuner/Mixed-crop-ai.git>
+git clone https://github.com/Akashkumarfortuner/Mixed-crop-ai.git
