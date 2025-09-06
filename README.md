@@ -1,6 +1,6 @@
 # AgriFusion AI: Multi-Modal Crop Yield Prediction System
 
-![AgriFusion AI Preview](./assets/screenshot.png)
+![AgriFusion AI Preview](./assets/webpage.png)
 
 ## 1. Project Overview
 
